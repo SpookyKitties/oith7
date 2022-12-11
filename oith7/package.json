@@ -33,7 +33,7 @@
     "@types/benchmark": "^1.0.31",
     "animate.css": "^3.7.2",
     "benchmark": "^2.1.4",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "global": "^4.4.0",
     "normalizecss": "^3.0.0",
     "rimraf": "^3.0.0",
